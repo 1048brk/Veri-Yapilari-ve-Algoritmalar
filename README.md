@@ -4,8 +4,8 @@
 
 
 
- 1. [Insertion Sort ve Selection Sort]()
+ 1. [Insertion Sort ve Selection Sort](https://github.com/1048brk/Veri-Yapilari-ve-Algoritmalar/blob/main/01%20-%20Insertion%20Sort%20ve%20Selection%20Sort)
  
- 2. [Merge Sort]()
+ 2. [Merge Sort](https://github.com/1048brk/Veri-Yapilari-ve-Algoritmalar/blob/main/02%20-%20Merge%20Sort)
 
- 3. [Binary Search Tree]()
+ 3. [Binary Search Tree](https://github.com/1048brk/Veri-Yapilari-ve-Algoritmalar/blob/main/03%20-%20Binary%20Search%20Tree)
